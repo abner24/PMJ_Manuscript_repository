@@ -6,3 +6,5 @@ polca.sh -a PMJ.draft.fa \
     -r 'PMJ_SR_1.fq.gz PMJ_SR_2.fq.gz' \
     -t 32
     -m 4G
+
+mv PMJ.draft.PolcaCorrected.fa PMJ.draft.polished.fa
