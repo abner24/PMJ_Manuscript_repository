@@ -1,0 +1,3 @@
+config:
+  assembly = 'assembly.fa'
+  purgeDups = "path/to/purge_dups"

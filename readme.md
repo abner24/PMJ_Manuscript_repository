@@ -19,6 +19,7 @@ Genome annotation follows the assembly process using RNA-Seq from the various ma
 5. Merging of transcript assembly from different sets of RNA-Seq libraries (StringTie)
 6. Combining evidence from RepeatMasking, transcript assembly and protein evicence from closely related species into a final set of evidence based annotation (MAKER3)
 
+Datasets used for this project is available through NCBI accession (PRJNA764569)
 Scripts used for differential expression can be found in the analysis folder.
 The purpose of these scripts is for analysis reproduction so the parameters, script execution can be documented. This set of scripts might not be portable and might require the user to thinker with computing environments.
 
