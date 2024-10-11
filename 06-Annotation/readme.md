@@ -12,4 +12,6 @@ The following workflow is used to train gene models using Augustus and SNAP:
 - Create a training and test dataset for SNAP and Augustus.
 
 Annotation Results are in the root of the folder
-- PMJ.gff.gz: Contains a list of non-redundant annotation models created by Maker corresponding to the genome deposited in NCBI. PMJ.aa.gz contains the translated protein sequences, and PMJ.cds.gz contains the coding sequences.
+- PMJ.gff.gz: Contains a list of non-redundant annotation models created by Maker corresponding to the genome deposited in NCBI.
+- PMJ.aa.gz: Contains the translated protein sequences.
+- PMJ.cds.gz: Coding sequences.
