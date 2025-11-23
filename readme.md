@@ -24,7 +24,7 @@ The purpose of these scripts is for analysis reproduction so the parameters, scr
 
 Gene annotations for the genome are available in the 06-Annotation folder:
 
-PMJ.gff.gz: Contains a list of non-redundant annotation models created by Maker corresponding to the genome deposited in NCBI.
-PMJ.aa.gz: Contains the translated protein sequences.
-PMJ.cds.gz: Coding sequences
+1. PMJ.gff.gz: Contains a list of non-redundant annotation models created by Maker corresponding to the genome deposited in NCBI.
+2. PMJ.aa.gz: Contains the translated protein sequences.
+3. PMJ.cds.gz: Coding sequences
 
