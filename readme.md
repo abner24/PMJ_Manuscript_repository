@@ -22,3 +22,9 @@ Genome annotation follows the assembly process using RNA-Seq from the various ma
 Datasets used for this project is available through NCBI accession (PRJNA764569)
 The purpose of these scripts is for analysis reproduction so the parameters, script execution can be documented. This set of scripts might not be portable and might require the user to thinker with compute environments.
 
+Gene annotations for the genome are available in the 06-Annotation folder:
+
+PMJ.gff.gz: Contains a list of non-redundant annotation models created by Maker corresponding to the genome deposited in NCBI.
+PMJ.aa.gz: Contains the translated protein sequences.
+PMJ.cds.gz: Coding sequences
+
